@@ -1,5 +1,5 @@
 {
-	"file": "E:\\github_file\\upset\\data\\medical-search\\medical-search.txt",
+	"file": "https://raw.githubusercontent.com/renepQ/set-visualiaztion/master/data/medical-search.txt",
 	"name": "medical-search",
 	"header": 0,
 	"separator": ";",
