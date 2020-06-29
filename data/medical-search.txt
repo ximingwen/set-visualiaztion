@@ -1,0 +1,6 @@
+name;nose;normal;mouth;medications;normal;nasal irritation;eyelid;Orbital emphysema;ptosis;eyelid swelling;periorbital;emphysema;trauma;psychotherapy;diagnoses;tests;association;topical;anesthesia;attack;rhinorrhoea;antihistamine;treatment;cold;eyes;sneeze;disease;history;mild;cough
+0;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;
+1;0;0;0;0;0;0;1;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;
+2;1;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;
+3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;
+4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;1;1;1;1;1;1;

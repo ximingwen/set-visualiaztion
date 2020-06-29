@@ -1,0 +1,16 @@
+{
+	"file": "E:\\github_file\\upset\\data\\medical-search\\medical-search.txt",
+	"name": "medical-search",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Name" },
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 30 }
+	],
+    "author": "grouplens",
+    "description": "example",
+   
+}
